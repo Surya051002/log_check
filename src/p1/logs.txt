@@ -1,0 +1,4 @@
+2026-10-03 10:15:21 INFO Login request received for user: surya
+2026-10-03 10:15:21 INFO Validating password
+2026-10-03 10:15:21 ERROR AttributeError: 'NoneType' object has no attribute 'password'
+2026-10-03 10:15:21 ERROR Login API returned HTTP 500
